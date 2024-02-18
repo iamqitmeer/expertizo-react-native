@@ -1,0 +1,52 @@
+React Native (Mobile App Framework / Library)
+Platforms : (Android + iOS)
+
+Languages:
+- Android: Java / Kotlin
+- iOS: Swift / Objective C
+
+React Native Cross Plateform He. Or Javascript se Bani He OR Flutter Bhi Cross Platform he lekin dart ka use krti he is liye wo market me zyada booom kr rahi he. is se pehle ionic thi. iski performance achi nhi thi.
+
+React Native VS Flutter
+
+-- Flutter:
+Flutter Sirf Mobile Apps Ke Liye He. Flutter Dart se Bani He Or Iska Main Purpose hi Mobile Apps He.
+Flutter Thori se Performance me Fast He React Native se
+
+
+-- React Native:
+React Native Cross Plateform Mobile Apps Ke Liye He. Jo Javascript se Bani He Or Javascript se Ap sirf Mobile App Nhi Blke Web Apps, Desktop Apps OR Backend ke Liye bhi Use Hoti He.
+React Native Thori se Performance me Low He
+
+
+2 Tool to Create React Native App:
+- RN CLI
+---------------------------------------------------------------
+-- Advantages
+1. The Size of The Apps is Usually Small (Starting From 5 MB++)
+2. Development is Fast as Compare to Expo.
+3. We Can Link Native Code with Our Javascript Code.
+
+-- Dis-advantages
+1. We Need some more efforts as compare to Expo CLI to Configure and start the react native app.
+2. We Need Android Studio or Xcode for the setup and development.
+3. We Need MacOS during development for iOS Apps as well as for production.
+
+- Expo CLI
+---------------------------------------------------------------
+-- Advantages
+1. we need very less efforts to configure and start the expo app.
+2. it doesn't need Android Studio or Xcode for the setup & development.
+3. You Will Not Require MacOS During Development of iOS Apps, but yes, will be required for production
+
+-- Dis-advantages
+1. The Size of the app is usually bigger (Starting From 30 MB++).
+2. Development is Slow As Compare to RN CLI.
+3. We Cannot Link Native Code with Our Javascript Code.
+
+
+
+
+
+
+
